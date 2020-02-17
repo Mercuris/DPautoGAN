@@ -2,3 +2,5 @@
 uci/.ipynb_checkpoints/uci-checkpoint.ipynb
 
 *.pyc
+
+uci/synthetic.csv
